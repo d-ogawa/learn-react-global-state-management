@@ -1,2 +1,2 @@
-# learn-react-global-state-management
+# learn-react-atomic-design
 Created with CodeSandbox
